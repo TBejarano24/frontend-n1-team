@@ -50,6 +50,7 @@ const cursos = [
     ],
   },
 ];
+
 //   FUNCION 1: Listar
 //   Mostrá todos los nombres de los cursos con su profesor.
 
